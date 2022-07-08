@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2011geekycoder
-- 👀 I’m interested in coding.
+- 👀 I’m interested in programming and creating projects.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on a project that includes Python.
 
